@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "858043960149",
-    "project_id": "flutter-mega-app",
-    "storage_bucket": "flutter-mega-app.appspot.com"
+    "project_number": "623309269991",
+    "project_id": "my-mega-app",
+    "storage_bucket": "my-mega-app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:858043960149:android:fa8775522a49566cc63ddc",
+        "mobilesdk_app_id": "1:623309269991:android:828cda01cf173de03d2b42",
         "android_client_info": {
           "package_name": "com.example.mega_app"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAO-Q8LH-NCPS3QGviFWuoSVQjxY7F7ZqI"
+          "current_key": "AIzaSyCd5Bj98Pagp-BEIbIuzJ3NYTcwbuF8J8c"
         }
       ],
       "services": {

@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAO-Q8LH-NCPS3QGviFWuoSVQjxY7F7ZqI',
-    appId: '1:858043960149:android:fa8775522a49566cc63ddc',
-    messagingSenderId: '858043960149',
-    projectId: 'flutter-mega-app',
-    storageBucket: 'flutter-mega-app.appspot.com',
+    apiKey: 'AIzaSyCd5Bj98Pagp-BEIbIuzJ3NYTcwbuF8J8c',
+    appId: '1:623309269991:android:828cda01cf173de03d2b42',
+    messagingSenderId: '623309269991',
+    projectId: 'my-mega-app',
+    storageBucket: 'my-mega-app.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDa-wOoCrrrniuKoHrr6qDzYnp3RM96aSU',
-    appId: '1:858043960149:ios:d51ed702f802678cc63ddc',
-    messagingSenderId: '858043960149',
-    projectId: 'flutter-mega-app',
-    storageBucket: 'flutter-mega-app.appspot.com',
+    apiKey: 'AIzaSyBtTM4svW_iz9wak6vjNk3ggpXhh3U3-SA',
+    appId: '1:623309269991:ios:dbc08fbd3e5c807f3d2b42',
+    messagingSenderId: '623309269991',
+    projectId: 'my-mega-app',
+    storageBucket: 'my-mega-app.appspot.com',
     iosBundleId: 'com.example.megaApp',
   );
 
